@@ -1,0 +1,4 @@
+baseURL = 'https://xenonpy.vercel.app'
+languageCode = 'en-us'
+title = "XenonPy's blog"
+theme = 'dead-simple'
